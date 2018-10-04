@@ -14,7 +14,9 @@ api:
 - 3.0.0-ALPHA8
 - 3.0.0-ALPHA9
 - 3.0.0-ALPHA10
-author: Xanadu2875
+author: 
+- Xanadu2875
+- naoki1510
 description: あらかじめ設定された場所にGUIを使いテレポートできます
 website: https://forum.mcbe.jp/resources/18/
 
